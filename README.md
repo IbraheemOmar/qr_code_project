@@ -58,7 +58,7 @@ img src="./images/image-code.png" alt="" >
 
 
 
-The web page was unable to find the image because I was missing the dot. and while it displays without a problem when running the web page locally, The can't be said for github pages.
+The web page was unable to find the image because I was missing the dot in the beginning of the url. and while it displays without a problem when running the web page locally, The can't be said for github pages.
 
 
 

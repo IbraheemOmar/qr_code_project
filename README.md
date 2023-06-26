@@ -44,14 +44,16 @@ I was able to find the solution to a problem I was having with github. I was hav
 ---html
 
 
-how I wrote it before
+how I wrote it before:
 
-img src="/images/image-code.png" alt="" >
+</img src="/images/image-code.png" alt="" >
 
 
-solution
 
-img src="./images/image-code.png" alt="">
+solution:
+
+</img src="./images/image-code.png" alt="" >
+
 
 
 The web page was unable to find the image because I was missing the dot. and while it displays without a problem when running the web page locally, The can't be said for github pages.

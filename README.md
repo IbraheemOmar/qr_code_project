@@ -45,14 +45,14 @@ I was able to find the solution to a problem I was having with github. I was hav
 
 
 how I wrote it before:
-
-<img src="/images/image-code.png" alt="" >
+ 
+img src="/images/image-code.png" alt="" >
 
 
 
 solution:
 
-<img src="./images/image-code.png" alt="" >
+img src="./images/image-code.png" alt="" >
 
 
 

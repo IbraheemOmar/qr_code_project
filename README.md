@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -39,15 +39,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I was able to find the solution to a problem I was having with github. I was having trouble getting my images to display on my live github servers when keeping my images inside a folder. I looked to see if anyone on the discord server ran into a similar problem and someone mentioned that this was a filepath issue.
+I was able to find the solution to a problem I was having with github. I was having trouble getting my images to display on my live github pages when keeping my images inside a folder. I looked to see if anyone on the discord server ran into a similar problem and someone mentioned that this was a filepath issue.
 
 ---html
-<!-- how I wrote it before -->
-<!-- <img src="/images/image-qr-code.png" alt=""> -->
+how I wrote it before
+<!-- <img src="/images/image-qr-code.png" alt="" > -->
 
-<!-- solution -->
+solution
 <!-- <img src="./images/image-qr-code.png" alt=""> -->
----
 
 The web page was unable to find the image because I was missing the dot. and while it displays without a problem when running the web page locally, The can't be said for github pages.
 

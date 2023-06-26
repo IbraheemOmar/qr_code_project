@@ -42,15 +42,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I was able to find the solution to a problem I was having with github. I was having trouble getting my images to display on my live github pages when keeping my images inside a folder. I looked to see if anyone on the discord server ran into a similar problem and someone mentioned that this was a filepath issue.
 
 ---html
-how I wrote it before
 
+
+how I wrote it before
 
 img src="/images/image-code.png" alt="" >
 
+
 solution
 
-
 img src="./images/image-code.png" alt="">
+
 
 The web page was unable to find the image because I was missing the dot. and while it displays without a problem when running the web page locally, The can't be said for github pages.
 

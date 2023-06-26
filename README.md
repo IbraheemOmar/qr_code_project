@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/IbraheemOmar/qr_code_project/tree/main)
-- Live Site URL: [Add live site URL here](https://ibraheemomar.github.io/qr_code_project/)
+- Solution URL: [https://github.com/IbraheemOmar/qr_code_project/tree/main](https://github.com/IbraheemOmar/qr_code_project/tree/main)
+- Live Site URL: [https://ibraheemomar.github.io/qr_code_project/](https://ibraheemomar.github.io/qr_code_project/)
 
 
 ### Built with
@@ -43,10 +43,10 @@ I was able to find the solution to a problem I was having with github. I was hav
 
 ---html
 <!-- how I wrote it before -->
-<img src="/images/image-qr-code.png" alt="">
+<!-- <img src="/images/image-qr-code.png" alt=""> -->
 
 <!-- solution -->
-<img src="./images/image-qr-code.png" alt="">
+<!-- <img src="./images/image-qr-code.png" alt=""> -->
 ---
 
 The web page was unable to find the image because I was missing the dot. and while it displays without a problem when running the web page locally, The can't be said for github pages.

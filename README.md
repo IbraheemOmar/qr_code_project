@@ -43,12 +43,16 @@ I was able to find the solution to a problem I was having with github. I was hav
 
 ---html
 how I wrote it before
+
+
 img src="/images/image-code.png" alt="" >
 
 solution
+
+
 img src="./images/image-code.png" alt="">
 
-The web page was unable to find the image because I was missing the dot. and while it displays without a problem when running the web page locally, The can't be said for github pages.
+The web page was unable to find the image because I was missing the dot. Unlike visual studio, Github will not recognize the image file path without a period at the beginning.
 
 
 
@@ -62,7 +66,6 @@ The web page was unable to find the image because I was missing the dot. and whi
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 Big thanks to @AlexKMarshall for helping me solve my image problem. While he didn't help me directly, I was able to find his solution under the post of @joachim on discord. Big thanks to both of these guys.
 
